@@ -15,7 +15,7 @@
 IT Professional with **10 years of total experience**: 8 years in Desktop Support & Windows System Administration, and the last 2 years transitioning into **DevOps and Cloud Infrastructure**. Currently focused on mastering AWS, Docker, Kubernetes, and Infrastructure as Code (Terraform & Ansible).
 
 - 🔭 **Current Focus:** Scaling and monitoring [Brain-Tasks](https://github.com/Bibek-2024/brain-tasks-app), a managed cloud-native project.
-- 🌱 **Learning Path:** Deepening expertise in **Infrastructure as Code (Terraform/Ansible)**
+- 🌱 **Learning Path:** Deepening expertise in **Infrastructure as Code (Terraform/Ansible)**, **Docker**, **Jenkins**, **Linux**, **Monitoring(Grafana & Promethesu)**, **AWS**.
 - 👯 **Collaboration:** Open to contributing to ReactJS-based e-commerce DevOps workflows.
 - 🎯 **Goal:** Designing resilient, observable, and automated infrastructure on AWS.
 
