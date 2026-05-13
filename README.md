@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Bibek Kumar Sahu</h1>
-  <h3>Aspiring DevOps & Cloud Infrastructure Engineer</h3>
+  <h3>DevOps & Cloud Infrastructure Engineer</h3>
   
   <p>
     <a href="https://linkedin.com/in/bibekkumarsahu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
